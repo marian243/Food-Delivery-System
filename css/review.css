@@ -1,0 +1,10 @@
+.banner{
+	background:url(../images/rev.jpg) no-repeat center top;
+	background-attachment:fixed;
+	background-size:cover;
+	height:100vh;
+	min-height:100%;
+} 
+
+
+
